@@ -43,3 +43,7 @@ This Node.js script is designed to interact with the Gmail API, specifically for
     - The script runs the main application loop indefinitely, periodically checking for new emails and responding to them.
 
 Note: Ensure that the Gmail API is enabled in the Google Cloud Console, and the OAuth2 credentials are correctly set up. The Gmail API client is initialized, and the script continuously checks for new emails, sends a predefined reply, and labels/moves the emails.
+
+**Note:** I have removed the client_id and client_secret tokens from this repository, as Google was blocking access. I have elaborated on this in my recorded video.
+
+**Link:** https://tinyurl.com/OpeninAppTask
