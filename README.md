@@ -46,4 +46,4 @@ Note: Ensure that the Gmail API is enabled in the Google Cloud Console, and the 
 
 **Note:** I have removed the client_id and client_secret tokens from this repository, as Google was blocking access. I have elaborated on this in my recorded video.
 
-**Link:** https://tinyurl.com/OpeninAppTask
+**Video Link:** https://tinyurl.com/OpeninAppTask
